@@ -42,7 +42,6 @@ Word-Drop is an interactive typing game designed to enhance user engagement and 
 
 ### 2. Authentication
 - **Auth0 Integration**: Secure authentication allows users to log in and track their progress.
-- **Session Management**: Users can resume their progress across different devices.
 
 ### 3. Score Tracking
 - **WPM Calculation**: Measures typing speed to help users improve.
